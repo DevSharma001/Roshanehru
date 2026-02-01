@@ -21,7 +21,9 @@
  
 /* small mobile :320px. */
 @media (max-width: 767px) {
-
+.slider-area{
+    background-position: left center;
+}
  
 }
  
